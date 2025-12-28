@@ -31,7 +31,9 @@ Each finding MUST include:
 - Severity: Low
 - Decision: Proceeded with local EVM testnet for v0 logic validation
 - Resolution: Will deploy to Arbitrum Sepolia when infrastructure stabilizes
+---
 
+## Findings
 - Date: 2025-12-27
 - Component: Repository Structure
 - Description: Contracts directory was initially missing from GitHub
