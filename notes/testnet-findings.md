@@ -25,10 +25,10 @@ Each finding MUST include:
 
 ## Findings
 
-Date: 2025-12-27
-Component: Testnet Environment
-Description: Arbitrum Sepolia ETH unavailable via public faucets
-Severity: Low
-Decision: Proceeded with local EVM testnet for v0 logic validation
-Resolution: Will deploy to Arbitrum Sepolia when infrastructure stabilizes
+- Date: 2025-12-27
+- Component: Testnet Environment
+- Description: Arbitrum Sepolia ETH unavailable via public faucets
+- Severity: Low
+- Decision: Proceeded with local EVM testnet for v0 logic validation
+- Resolution: Will deploy to Arbitrum Sepolia when infrastructure stabilizes
 
