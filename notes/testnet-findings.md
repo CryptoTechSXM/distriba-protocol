@@ -32,3 +32,10 @@ Each finding MUST include:
 - Decision: Proceeded with local EVM testnet for v0 logic validation
 - Resolution: Will deploy to Arbitrum Sepolia when infrastructure stabilizes
 
+- Date: 2025-12-27
+- Component: Repository Structure
+- Description: Contracts directory was initially missing from GitHub
+- Severity: Low
+- Impact: None (no deployed contracts)
+- Decision: Added contracts directory before any testnet deployment
+- Resolution: Repo structure verified before deployment
